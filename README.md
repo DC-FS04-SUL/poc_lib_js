@@ -22,7 +22,8 @@ Site: https://impress.js.org/
 #### D3.js:
 ````
 D3.js: Se você precisa criar gráficos e visualizações de dados interativas em suas apresentações,
-o D3.js é uma excelente escolha. Ele é uma poderosa biblioteca para manipulação de documentos baseados em dados (Data-Driven Documents).
+o D3.js é uma excelente escolha. Ele é uma poderosa biblioteca para manipulação de documentos
+baseados em dados (Data-Driven Documents).
 
 Site: https://d3js.org/
 ````
