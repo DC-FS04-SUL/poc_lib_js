@@ -75,12 +75,12 @@ facilidade de uso e desempenho.
 Site: https://www.babylonjs.com/
 ````
 
-#### GreenSock GSAP: 
+#### Animejs: 
 ````
-GreenSock GSAP: O GSAP é uma biblioteca para animações avançadas. Se você quer criar animações
-fluidas e interativas em suas apresentações ou POCs, o GSAP pode ser uma excelente escolha.
+Animejs: Anime.js ( /ˈæn.ə.meɪ/) é uma biblioteca de animação JavaScript leve com uma API simples, porém poderosa.
+Funciona com propriedades CSS, SVG, atributos DOM e objetos JavaScript.
 
-Site: https://greensock.com/gsap/
+Site: https://animejs.com/
 ````
 
 Lembre-se de verificar a documentação e exemplos fornecidos por cada biblioteca para ter uma ideia melhor de como utilizá-las e criar suas POCs e apresentações. Além disso, considere a compatibilidade com diferentes navegadores e dispositivos ao escolher uma biblioteca para garantir que seu projeto funcione bem em várias plataformas.
